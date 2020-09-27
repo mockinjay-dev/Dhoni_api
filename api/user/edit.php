@@ -88,7 +88,9 @@ header("HTTP/1.1 200 OK");
             "number"=>$usr_number,
         ));
     }
+
     echo json_encode(array(
         "msg"=>"Successfully Edited",
     ));
+    
 ?>
