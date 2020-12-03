@@ -5,7 +5,7 @@ class SQLConnection{
     private $pdo;
     private $host = "localhost";
     private $user = "root";
-    private $database = "spotifydb";
+    private $database = "dhonidb";
     private $pwd= "";
 
     public function connect(){

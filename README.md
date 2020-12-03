@@ -1,6 +1,6 @@
 # Music Api with PHP and MySQL
 
-This is a spotify clone in core PHP using OOP with an api approach.
+This is a dhoni clone in core PHP using OOP with an api approach.
 
 ## Features:-
 
